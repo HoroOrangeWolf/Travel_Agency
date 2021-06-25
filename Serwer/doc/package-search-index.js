@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.Michalski.Mosiolek.Minner.Communication"},{"l":"com.Michalski.Mosiolek.Minner.Serwer"},{"l":"com.Michalski.Mosiolek.Minner.Serwer.Client"},{"l":"com.Michalski.Mosiolek.Minner.Serwer.Database"},{"l":"com.Michalski.Mosiolek.Minner.Serwer.Test"}];updateSearchResults();

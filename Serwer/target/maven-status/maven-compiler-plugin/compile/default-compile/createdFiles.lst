@@ -1,0 +1,17 @@
+com\Michalski\Mosiolek\Minner\Serwer\Window$1.class
+com\Michalski\Mosiolek\Minner\Communication\ClientLogin.class
+com\Michalski\Mosiolek\Minner\Serwer\Client\Client.class
+com\Michalski\Mosiolek\Minner\Communication\Client.class
+com\Michalski\Mosiolek\Minner\Communication\WhatToDo.class
+com\Michalski\Mosiolek\Minner\Serwer\Serwer.class
+com\Michalski\Mosiolek\Minner\Communication\Payment.class
+com\Michalski\Mosiolek\Minner\Serwer\Sql\SqlEngine$User.class
+com\Michalski\Mosiolek\Minner\Communication\Communication.class
+com\Michalski\Mosiolek\Minner\Communication\Aggrement.class
+com\Michalski\Mosiolek\Minner\Serwer\Client\ClientOperator.class
+com\Michalski\Mosiolek\Minner\Serwer\ComponentManager\ComponentManager.class
+com\Michalski\Mosiolek\Minner\Serwer\Sql\SqlEngine.class
+com\Michalski\Mosiolek\Minner\Communication\Ofert.class
+com\Michalski\Mosiolek\Minner\Serwer\Window.class
+com\Michalski\Mosiolek\Minner\Serwer\Sql\SqlEngine$Office.class
+com\Michalski\Mosiolek\Minner\Communication\ClientLoginReturn.class

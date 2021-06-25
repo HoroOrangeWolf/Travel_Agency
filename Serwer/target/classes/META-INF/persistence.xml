@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0"
+    xmlns="http://java.sun.com/xml/ns/persistence" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/persistence 
+    http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+    <persistence-unit name = "Serwer" transaction-type = "RESOURCE_LOCAL">
+    	 <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+    	 <class>com.Michalski.Mosiolek.Minner.Serwer.Database.Aggrement</class>
+    	 <class>com.Michalski.Mosiolek.Minner.Serwer.Database.Adresy</class>
+    	 <class>com.Michalski.Mosiolek.Minner.Serwer.Database.Worker</class>
+    	 <class>com.Michalski.Mosiolek.Minner.Serwer.Database.Client</class>
+    	 <class>com.Michalski.Mosiolek.Minner.Serwer.Database.Payment</class>
+    	 <class>com.Michalski.Mosiolek.Minner.Serwer.Database.Trip</class>
+    	 <class>com.Michalski.Mosiolek.Minner.Serwer.Database.Office</class>
+    	 <class>com.Michalski.Mosiolek.Minner.Serwer.Database.AdminLogin</class>
+    	 <properties>
+    	 	<property name="javax.persistence.jdbc.driver" value="oracle.jdbc.driver.OracleDriver" />
+            <property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@localhost:1521/ORCLPDB" />
+            <property name="javax.persistence.jdbc.user" value="HR" />
+            <property name="javax.persistence.jdbc.password" value="Ziome$qQpk123AlqaZ" />
+    	 </properties>       
+    </persistence-unit> 
+</persistence>

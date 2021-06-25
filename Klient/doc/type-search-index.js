@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.Michalski.Mosiolek.Minner.SerwerConnector","l":"SerwerConnector"},{"p":"com.Michalski.Mosiolek.Minner.Klient","l":"Window"}];updateSearchResults();
